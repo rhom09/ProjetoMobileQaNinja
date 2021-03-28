@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Redmi Note 9s"
+app = "/Users/rhom09/Documents/projetos/twp-cucumber-ruby-mobile/app/twp.apk"
