@@ -2,7 +2,8 @@ Before do
   driver.start_driver
   driver.manage.timeouts.implicit_wait = 10
   # Evento de clique no botão começar
-  
+  find_element(xpath: "//android.widget.Button[@text='COMEÇAR']").click
+
 end
 
 After do |scenario|
